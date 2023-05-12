@@ -1,0 +1,12 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true, // 저장 시에 prettier 적용
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true // 저장 시에 eslint 적용
+    }
+  }
