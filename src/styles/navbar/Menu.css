@@ -1,0 +1,14 @@
+.menu {
+  /* menu styles */
+  display: flex;
+  width: 100%;
+}
+
+.menu-item {
+  /* menu item styles */
+  display: block;
+}
+
+.sub-menu {
+  /* Submenu styles */
+}
